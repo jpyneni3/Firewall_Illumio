@@ -29,5 +29,7 @@ If I had more time, I would try to make a more efficient way to store the ranges
 
 I would address the issue, perhaps by using a search tree that maps each port node to the ranges of addresses it covers, so look up will be a bit slower, but establishing the rules framework would be faster.
 
-Team choice:
-Data Team
+Team Preferences:
+1-Data Team
+2-Policy
+3-Platform
